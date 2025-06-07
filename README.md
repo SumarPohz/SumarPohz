@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="sumarbha.gif" alt="Sumarbha Pohsnem" />
+  <img src="SUMARBHA POHSNEM.gif" alt="Sumarbha Pohsnem" />
 </h1>
 
 ### 👋 Hi, I’m @SumarPohz
