@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="SUMARBHA%20POHSNEM.gif" alt="Sumarbha Pohsnem" />
+  <img src="SmrPohz.gif" alt="Sumarbha Pohsnem" />
 </h1>
 
 <p align="center">
